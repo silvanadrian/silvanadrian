@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on looking for new job opportunities
 - 🌱 I’m currently learning Flutter, alda, AWS
-- 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with anything that I'm learning at the moment
 - 💬 Ask me about Web-Dev, SEO, Wordpress, Java, Javscript, RoR
 - 📫 How to reach me: hallo@silvanadrian.ch
