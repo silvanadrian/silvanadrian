@@ -1,9 +1,9 @@
 ### Silvan Adrian
 
-- 🔭 I’m currently working on looking for new job opportunities
+- 🔭 I’m currently looking for new job opportunities
 - 🌱 I’m currently learning Flutter, alda, AWS
 - 🤔 I’m looking for help with anything that I'm learning at the moment
-- 💬 Ask me about Web-Dev, SEO, Wordpress, Java, Javscript, RoR
+- 💬 Ask me about Web-Dev, SEO, Wordpress, Java, Javscript, RoR, Python
 - 📫 How to reach me: hallo@silvanadrian.ch
 
 ### Top Langs
