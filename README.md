@@ -6,7 +6,7 @@
 - 💬 Ask me about Web-Dev, SEO, Wordpress, Java, Javscript, RoR, Python
 - 📫 How to reach me: hallo@silvanadrian.ch
 
-### Top Langs
+### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvanadrian)
 
 ### Github stats
