@@ -1,9 +1,9 @@
 ### Silvan Adrian
 
-- 🔭 I’m currently working at Panter as a Software Engineer
-- 🌱 I’m currently learning alda, AWS
+- 🔭 I’m currently working at Livit as a Full-Stack Developer
+- 🌱 I’m currently learning lots of things
 - 🤔 I’m looking for help with anything that I'm learning at the moment
-- 💬 Ask me about Web-Dev, SEO, Wordpress, Java, Javscript, RoR, Python
+- 💬 Ask me about Web-Dev, Java, Javscript, RoR, Python
 - 📫 How to reach me: hallo@silvanadrian.ch
 
 ### Top Languages
