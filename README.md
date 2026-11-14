@@ -1,6 +1,6 @@
 ### Hi, I'm Silvan 👋
 
-Senior software engineer based near Zürich. I build web products with TypeScript, React/Next.js and Node.js, and I care about accessibility and about making AI coding agents genuinely useful in a team.
+Senior software engineer based in Zürich. I build web products with TypeScript, React/Next.js and Node.js, and I care about accessibility and about making AI coding agents genuinely useful in a team.
 
 - 🔭 **Currently:** technical owner of the myLivit tenant portal and livit.ch at [Livit](https://www.livit.ch) (TypeScript, React/Next.js, NestJS, GraphQL)
 - 🤖 **Into:** AI-assisted development: Claude Code skills, MCP, spec-first agent workflows with human review
