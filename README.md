@@ -1,27 +1,9 @@
-### Silvan Adrian
+### Hi, I'm Silvan 👋
 
-- 🔭 I’m currently working at Livit as a Full-Stack Developer
-- 🌱 I’m currently learning lots of things
-- 🤔 I’m looking for help with anything that I'm learning at the moment
-- 💬 Ask me about Web-Dev, Java, Javscript, RoR, Python
-- 📫 How to reach me: hallo@silvanadrian.ch
+Senior software engineer based near Zürich. I build web products with TypeScript, React/Next.js and Node.js, and I care about accessibility and about making AI coding agents genuinely useful in a team.
 
-### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvanadrian)
-
-### Github stats
-![github stats](https://github-readme-stats.vercel.app/api?username=silvanadrian&show_icons=true)
-<!--
-**silvanadrian/silvanadrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Currently:** technical owner of the myLivit tenant portal and livit.ch at [Livit](https://www.livit.ch) (TypeScript, React/Next.js, NestJS, GraphQL)
+- 🤖 **Into:** AI-assisted development: Claude Code skills, MCP, spec-first agent workflows with human review
+- ♿ **Care about:** accessible component libraries and automated accessibility testing (WCAG 2.1 AA, axe-core, Playwright)
+- 💬 **Ask me about:** React/Next.js, Node.js/NestJS, GraphQL, Vue, Ruby on Rails, Java/Spring Boot, Salesforce integrations
+- 📫 **Reach me:** hallo@silvanadrian.ch
