@@ -6,4 +6,4 @@ Senior software engineer based near Zürich. I build web products with TypeScrip
 - 🤖 **Into:** AI-assisted development: Claude Code skills, MCP, spec-first agent workflows with human review
 - ♿ **Care about:** accessible component libraries and automated accessibility testing (WCAG 2.1 AA, axe-core, Playwright)
 - 💬 **Ask me about:** React/Next.js, Node.js/NestJS, GraphQL, Vue, Ruby on Rails, Java/Spring Boot, Salesforce integrations
-- 📫 **Reach me:** hallo@silvanadrian.ch
+- 📫 **Reach me:** hello@silvan.dev
